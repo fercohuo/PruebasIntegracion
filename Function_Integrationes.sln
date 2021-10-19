@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function_Integrationes", "Function_Integrationes\Function_Integrationes.csproj", "{7BE14E5B-58A9-44F8-A6FB-6AF1CD013254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions.IntegracionsTest", "Functions.IntegracionsTest\Functions.IntegracionsTest.csproj", "{7F349D8E-DDA8-43C8-87BE-C1EF70DAD11C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE14E5B-58A9-44F8-A6FB-6AF1CD013254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE14E5B-58A9-44F8-A6FB-6AF1CD013254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE14E5B-58A9-44F8-A6FB-6AF1CD013254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE14E5B-58A9-44F8-A6FB-6AF1CD013254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F349D8E-DDA8-43C8-87BE-C1EF70DAD11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F349D8E-DDA8-43C8-87BE-C1EF70DAD11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F349D8E-DDA8-43C8-87BE-C1EF70DAD11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F349D8E-DDA8-43C8-87BE-C1EF70DAD11C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {755866F2-F10A-4536-8626-BE9ABA085EEA}
+	EndGlobalSection
+EndGlobal
